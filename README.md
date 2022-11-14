@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pieter DS
-- 👀 I’m interested in programming (mainly c#) and 2D Design
+- 👀 I’m interested in programming (mainly C#) and 2D Design
 
 
 <!--
