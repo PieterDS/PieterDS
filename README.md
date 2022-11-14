@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Pieter DS
-- 👀 I’m interested in web development and design
-- 🌱 I’m currently learning the bootstrap framework
+- 👀 I’m interested in programming (mainly c#) and 2D Design
+-
 
 <!--
+- 🌱 I’m currently learning the bootstrap framework
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me /
 -->
