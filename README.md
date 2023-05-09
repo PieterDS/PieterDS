@@ -3,11 +3,11 @@ I'm a business engineer located in 🇧🇪. <br>
 Currently, I'm working for Mecoms, focusing on D365 and Azure. <br> <br>
 I enjoy turning my ideas 🐣 into reality through code. <br> <br>
 
-**📊 My GitHub stats:** <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PieterDS&show_icons=true&&hide_title=true&theme=vue-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PieterDS&show_icons=true&custom_title=My+GitHub+stats&theme=vue-dark)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PieterDS&theme=vue-dark)
-
+-->
 <!--
 #### Hello & welcome 👋, I’m Pieter DS
 #### I'm a business engineer located in Belgium 
